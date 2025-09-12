@@ -12,7 +12,11 @@
   
   <style>
     body {
-      margin: 0;
+      width: 90%
+      height: 800px;
+      border: 2px solid black;
+      display: block;
+      margin: 0 auto;
       padding: 0;
     }
     #map {
@@ -33,7 +37,7 @@
     // Initialize map using a simple CRS
     const map = L.map("map", {
       crs: L.CRS.Simple,
-      minZoom: -2,
+      minZoom: -3,
       maxZoom: 2,
       zoomSnap: 0.25
     });
