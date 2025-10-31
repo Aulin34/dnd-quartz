@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Embers of Progress",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,14 +17,22 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "assets/Templates/"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: {
+    		name: "Cinzel",
+    		weights: [400, 700, 800],
+    		includeItalic: false,
+  	},
+        body: {
+    		name: "Fira Sans",
+    		weights: [400, 600, 700],
+    		includeItalic: true,
+  	},
         code: "IBM Plex Mono",
       },
       colors: {
@@ -40,14 +48,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#1a1e24",
+          lightgray: "#666666",
           gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          darkgray: "#acb1b9",
+          dark: "#d9e4ea",
+          secondary: "#e35b5b",
+          tertiary: "#5e5e5e",
+          highlight: "rgba(169, 143, 143, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -56,9 +64,6 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
