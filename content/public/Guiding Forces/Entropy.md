@@ -1,0 +1,1 @@
+<img id="image-entropy" src="assets/Images/Misc/Entropy.png">
