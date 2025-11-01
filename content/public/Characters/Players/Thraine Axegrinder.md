@@ -1,6 +1,6 @@
 > [!infobox]
 > # Thraine Axegrinder
-> ![[thraine.png]]
+> ![[thraine_updated.png]]
 > ##### Information
 > | |  |
 > | ---- | ---- |

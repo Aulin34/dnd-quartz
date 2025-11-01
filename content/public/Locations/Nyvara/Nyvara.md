@@ -1,0 +1,16 @@
+- **The Colonial Slave Trade**: The settling of new lands has created vast opportunity for rapid expansion, which has generated need for great quantities of cheap labor.
+	- While many Druecian settlers have arrived in search of prosperous futures, cheaper labor exists in the form of chattel slavery.
+	- Slaves have been taken from conquered “societies” like Southern Vesh-Tara and also the wilderness of the Wimblegrove Forest.
+	- Bugbears, Lizardfolk, and Goblins comprise the majority of those taken as slaves for the Imperial Colonies.
+	- Generally, Lizardfolk are used in construction, bugbears in mining and manual labor, and goblins in menial tasks.
+	- Tabaxi, wanted for their hides, were spared lives of servitude.
+	- The monopoly on slavery in the Imperial Colonies was granted to the South Nyvaran Trade League, a company dedicated to the growth of private industry in the new world.
+	- The League operates mines, farms, logging camps and other rural, resource based industries.
+	- Based in Gulls Landing, most in the city are unaware of just how insidious the company is, only knowing of its great profits in agrarian sectors.
+
+- **The Ember Guard**: Among the most feared Druecian forces in Nyvara are the Ember Guard.
+	- Reporting directly to the Captain of the Royal Guard in Autumngrove, members of the Ember Guard are among the most fanatic devotees to the imperial cause. The Ember Guard have stopped short of no means to tame the savage nature of the frontier.
+	- Armed with flamethrowers and poison gases, the Ember Guard leave nothing but death in their wake.
+	- Primarily patrolling the Wimblegrove Forest, they have been seen as far west as the Gloomfen, as far north as outer Paw’merra, and as far south as Marchwood Forest.
+	- The Ember Guard is headquartered in Fort Brinsmead, though at any given moment upwards of 95% of their ranks are out on patrol, needing only to report back to base when appropriate.
+	- The command structure is uniquely decentralized, relying on the wit of commanders to carry out the brutal directive of the Empire.

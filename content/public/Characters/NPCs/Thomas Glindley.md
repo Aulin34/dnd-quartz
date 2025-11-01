@@ -1,14 +1,14 @@
 > [!infobox]
-> # Thalitch Vindmer
-> ![[thalich_vindmer.png]]
+> # Thomas Glindley
+> ![[thomas_glindley.png]]
 > ##### Information
 > | |  |
 > | ---- | ---- |
 > | **Race** | Human |
-> | **Class** | Unknown |
-> | **Origin** | Unknown |
-> | **Resides** | Unknown |
-> | **Affiliations** | Cattivu's Will |
+> | **Class** | Fighter |
+> | **Origin** | Autumngrove |
+> | **Resides** | Autumngrove |
+> | **Affiliations** | Autumngrove, Druecia's Finest |
 > | **Alignment** | Unknown |
 
 ### **Overview**

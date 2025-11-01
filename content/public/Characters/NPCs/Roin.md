@@ -1,14 +1,14 @@
 > [!infobox]
-> # Thalitch Vindmer
-> ![[thalich_vindmer.png]]
+> # Roin
+> ![[goblinsleep.png]]
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | **Race** | Human |
+> | **Race** | Goblin |
 > | **Class** | Unknown |
 > | **Origin** | Unknown |
-> | **Resides** | Unknown |
-> | **Affiliations** | Cattivu's Will |
+> | **Resides** | Rusty's Airship |
+> | **Affiliations** | Druecia's Finest |
 > | **Alignment** | Unknown |
 
 ### **Overview**
