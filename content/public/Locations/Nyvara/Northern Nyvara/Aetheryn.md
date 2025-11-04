@@ -18,7 +18,7 @@
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(255, 123, 0)">Strict</span> |
-> | Wealth | High |
+> | Wealth | <span style="color:rgb(255, 0, 0)">Rich</span> |
 > | Government | Democracy |
 > | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Aligned | Almera |

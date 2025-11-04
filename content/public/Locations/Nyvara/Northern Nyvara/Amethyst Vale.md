@@ -15,9 +15,9 @@
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | Resources | Rich |
+> | Resources | <span style="color:rgb(255, 0, 0)">Rich</span> |
 > | Magic | <span style="color:rgb(112, 48, 160)">Extreme</span> |
-> | Danger | <span style="color:rgb(255, 123, 0)">Medium</span> |
+> | Danger | <span style="color:rgb(255, 192, 0)">Medium</span> |
 
 The Amethyst Vale is a mystical land shaped by the ancient Sky Gods. Most of the Vale remains uninhabited, aside from small, scattered clans of Harengons and gnomes. Its dense forests and jagged mountains make travel treacherous, and the waters that flow through the Vale are said to possess strange magical properties.
 

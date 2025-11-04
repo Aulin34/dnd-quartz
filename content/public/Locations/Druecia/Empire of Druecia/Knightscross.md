@@ -18,7 +18,7 @@ banner-y: 31
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(255, 0, 0)">Very Strict</span> |
-> | Wealth | Modest |
+> | Wealth | <span style="color:rgb(255, 192, 0)">Modest</span> |
 > | Government | Monarchy |
 > | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Kingdom | Knightscross |

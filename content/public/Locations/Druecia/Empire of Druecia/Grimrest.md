@@ -20,7 +20,7 @@ banner-y: 4
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(255, 192, 0)">Medium</span> |
-> | Wealth | Rich |
+> | Wealth | <span style="color:rgb(255, 0, 0)">Rich</span> |
 > | Government | Monarchy |
 > | Civil Unrest | <span style="color:rgb(255, 192, 0)">Medium</span> |
 > | Kingdom | Grimrest |

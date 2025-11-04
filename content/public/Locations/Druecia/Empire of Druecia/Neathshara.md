@@ -18,7 +18,7 @@ banner-y: 66
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(112, 48, 160)">Extreme</span> |
-> | Wealth | Poor |
+> | Wealth | <span style="color:rgb(0, 176, 80)">Poor</span> |
 > | Government | Monarchy |
 > | Civil Unrest | <span style="color:rgb(112, 48, 160)">Extreme</span> |
 > | Kingdom | Steelrun |

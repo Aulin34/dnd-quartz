@@ -19,7 +19,7 @@ banner-y: 57
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(99, 99, 99)">None</span> |
-> | Wealth | Wretched |
+> | Wealth | <span style="color:rgb(99, 99, 99)">Wretched</span> |
 > | Government | None |
 > | Civil Unrest | <span style="color:rgb(112, 48, 160)">Extreme</span> |
 > | Kingdom | None |

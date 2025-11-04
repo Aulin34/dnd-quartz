@@ -19,7 +19,7 @@ banner-y: 67
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(255, 192, 0)">Medium</span> |
-> | Wealth | Modest |
+> | Wealth | <span style="color:rgb(255, 192, 0)">Modest</span> |
 > | Government | Monarchy |
 > | Civil Unrest | <span style="color:rgb(255, 123, 0)">High</span> |
 > | Kingdom | Albia |

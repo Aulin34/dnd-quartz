@@ -20,7 +20,7 @@ banner-y: 37
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(255, 123, 0)">Strict</span> |
-> | Wealth | Loaded |
+> | Wealth | <span style="color:rgb(112, 48, 160)">Loaded</span> |
 > | Government | Monarchy |
 > | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Kingdom | Druecia |

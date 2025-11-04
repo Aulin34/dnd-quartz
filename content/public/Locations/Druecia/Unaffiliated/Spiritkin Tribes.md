@@ -21,7 +21,7 @@ banner-y: 54
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(0, 176, 80)">Loose</span> |
-> | Wealth | Poor |
+> | Wealth | <span style="color:rgb(0, 176, 80)">Poor</span> |
 > | Government | Theocracy |
 > | Civil Unrest | <span style="color:rgb(255, 123, 0)">High</span> |
 > | Kingdom | None |

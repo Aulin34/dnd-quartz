@@ -19,7 +19,7 @@ banner-y: 32
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(0, 176, 80)">Loose</span> |
-> | Wealth | Poor |
+> | Wealth | <span style="color:rgb(0, 176, 80)">Poor</span> |
 > | Government | Who Knows |
 > | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Kingdom | None |

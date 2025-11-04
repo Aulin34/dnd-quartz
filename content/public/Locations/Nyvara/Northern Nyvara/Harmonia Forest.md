@@ -16,7 +16,7 @@
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | Resources | Rich |
+> | Resources | <span style="color:rgb(255, 0, 0)">Rich</span> |
 > | Magic | <span style="color:rgb(112, 48, 160)">Extreme</span> |
 > | Danger | <span style="color:rgb(0, 176, 80)">Low</span> |
 

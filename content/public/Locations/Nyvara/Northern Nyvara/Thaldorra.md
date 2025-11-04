@@ -16,7 +16,7 @@
 > | |  |
 > | ---- | ---- |
 > | Laws | <span style="color:rgb(255, 123, 0)">Strict</span> |
-> | Wealth | Comfortable |
+> | Wealth | <span style="color:rgb(255, 123, 0)">Comfortable</span> |
 > | Government | Aristocracy |
 > | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Kingdom | Almera |
