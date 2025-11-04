@@ -1,4 +1,4 @@
-<span style="color:rgb(255, 123, 0)">Over!</span>
+<span style="color:rgb(255, 123, 0)">**Over!**</span>
 ### Issued by: King of Suncrest
 ---
 > [!infobox]
