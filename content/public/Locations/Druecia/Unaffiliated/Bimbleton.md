@@ -7,7 +7,7 @@ banner-y: 31
 > [!infobox]
 > # Bimbleton
 > ![[bimbleton_icon.jpg]]
-> ###### Population: 48k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Halfling | 100% |

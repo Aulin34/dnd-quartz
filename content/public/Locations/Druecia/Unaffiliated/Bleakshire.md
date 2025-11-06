@@ -7,7 +7,7 @@ banner-y: 57
 > [!infobox]
 > # Bleakshire
 > ![[bleakshire_icon.jpg]]
-> ###### Population: 30k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Goblin | 50% |

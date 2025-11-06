@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Highspire
 > ![[highspire_icon.jpg]]
-> ###### Population: 2m
+> ###### Population: Large
 > |  |  |
 > | ---- | ---- |
 > | Dwarf | 90% |

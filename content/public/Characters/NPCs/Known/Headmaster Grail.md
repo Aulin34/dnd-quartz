@@ -5,27 +5,14 @@
 > | |  |
 > | ---- | ---- |
 > | **Race** | Human |
-> | **Class** | Unknown |
 > | **Origin** | Unknown |
-> | **Resides** | Unknown |
+> | **Relationship** | Bad |
+> | **Traits** | Cunning, Assertive |
 > | **Affiliations** | Cattivu's Will |
-> | **Alignment** | Unknown |
+> | **Status** | Alive |
 
-### **Overview**
+### **Notes**
 
+- Leader of Cattivu's Will.
 
-
-### **Appearance**
-
-
-
-### **Background**
-
-
-
-### **Current Activity**
-
-
-
-### **Known Associates**
-
+- Attempted to do something with Sylas that failed in the past.

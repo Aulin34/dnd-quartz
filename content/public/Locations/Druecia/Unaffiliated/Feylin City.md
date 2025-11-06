@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Feylin City
 > ![[feylincity_icon.jpg]]
-> ###### Population: 200k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Eladrin | 70% |

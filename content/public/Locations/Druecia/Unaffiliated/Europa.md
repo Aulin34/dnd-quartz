@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Europa
 > ![[europa_icon.jpg]]
-> ###### Population: 476k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 100% |

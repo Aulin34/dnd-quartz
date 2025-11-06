@@ -6,6 +6,15 @@ pre, code {
   overflow-x: hidden;        /* Hide horizontal scrollbar */
 }
 
+[data-slug$="/index"] .popover-hint .article-title,
+[data-slug="/"] .popover-hint .article-title {
+  display: none !important;
+}
+
+[data-slug="index"] .popover-hint .article-title {
+  display: none !important;
+}
+
 #image-preservation {
   max-width: 59% !important;
 }

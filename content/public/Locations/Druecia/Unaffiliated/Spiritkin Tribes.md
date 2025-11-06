@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Spiritkin Tribes
 > ![[spiritkintribes_icon.jpg]]
-> ###### Population: 120k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Githyanki | 10% |

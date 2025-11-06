@@ -24,17 +24,3 @@ Fiercely loyal and endlessly curious, he strives to follow in Dadaka’s footste
 
 What kind of man he’ll become remains a mystery.
 
-### **Appearance**
-
-
-
-### **Background**
-
-
-
-### **Current Activity**
-
-
-
-### **Known Associates**
-

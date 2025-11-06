@@ -7,7 +7,7 @@ banner-y: 26
 > [!infobox]
 > # Steelrun
 > ![[steelrun_icon.jpg]]
-> ###### Population: 2.3m
+> ###### Population: Large
 > |  |  |
 > | ---- | ---- |
 > | Human | 99% |

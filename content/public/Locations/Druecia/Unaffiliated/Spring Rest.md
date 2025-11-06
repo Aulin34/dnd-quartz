@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Spring Rest
 > ![[springrest_icon.jpg]]
-> ###### Population: 530k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 90% |

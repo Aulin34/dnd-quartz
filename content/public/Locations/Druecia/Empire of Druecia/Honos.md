@@ -7,7 +7,7 @@ banner-y: 46
 > [!infobox]
 > # Honos
 > ![[honos_icon.jpg]]
-> ###### Population: 20.2m
+> ###### Population: Massive
 > |  |  |
 > | ---- | ---- |
 > | Human | 92% |

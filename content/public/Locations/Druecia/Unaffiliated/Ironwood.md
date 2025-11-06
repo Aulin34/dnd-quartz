@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Ironwood
 > ![[ironwood_icon.jpg]]
-> ###### Population: 800k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Dwarf | 10% |

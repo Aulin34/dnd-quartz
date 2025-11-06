@@ -7,7 +7,7 @@ banner-y: 55
 > [!infobox]
 > # Astertin
 > ![[astertin_icon.jpg]]
-> ###### Population: 240k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 80% |

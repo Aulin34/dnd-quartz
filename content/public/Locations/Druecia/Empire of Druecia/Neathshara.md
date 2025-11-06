@@ -7,7 +7,7 @@ banner-y: 66
 > [!infobox]
 > # Neathshara
 > ![[neathshara_icon.jpg]]
-> ###### Population: ???
+> ###### Population: Unknown
 > |  |  |
 > | ---- | ---- |
 > | Elf | 87% |

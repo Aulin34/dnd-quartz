@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Keshnard Drue
 > ![[keshnarddrue_icon.jpg]]
-> ###### Population: 976k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 65% |

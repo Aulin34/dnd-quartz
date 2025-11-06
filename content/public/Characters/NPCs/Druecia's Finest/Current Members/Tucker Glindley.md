@@ -22,17 +22,3 @@ A showman even in battle, he shuns blackpowder weapons as crude and inelegant, p
 
 Beneath his cocky grin lies a true warrior’s heart; when the fight turns dire, there’s no ally more reliable or deadly to have at your side than Tucker Glindley.
 
-### **Appearance**
-
-
-
-### **Background**
-
-
-
-### **Current Activity**
-
-
-
-### **Known Associates**
-

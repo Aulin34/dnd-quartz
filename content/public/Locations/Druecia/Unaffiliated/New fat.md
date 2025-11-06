@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # New Fat
 > ![[newfat_icon.jpg]]
-> ###### Population: 50k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Goliath | 100% |

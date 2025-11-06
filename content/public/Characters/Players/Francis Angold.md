@@ -9,11 +9,11 @@
 > | **Origin** | Unknown |
 > | **Resides** | Cinderforge |
 > | **Affiliations** | The Light |
-> | **Alignment** | Unknown |
+> | **Alignment** | True Neutral |
 
 ### **Overview**
 
-Francis, after the incident in the frozen forests, found himself imprisoned within the oppressing walls of Cinderforge. For years, he was powerless to heed the guidance of The Light. His luck changed for the better after Druecia's Finest arrives in Cinderforge. Claiming world-consuming consequences if he doesn't find a mysterious dwarf, the group reluctantly allows him to tag along in exchange for his assistance in their adventures across the continents.
+Francis, after the incident in the [[Glacier Hollow]], found himself imprisoned within the oppressing walls of Cinderforge. For years, he was powerless to heed the guidance of The Light. His luck changed for the better after Druecia's Finest arrives in Cinderforge. Claiming world-consuming consequences if he doesn't find a mysterious dwarf, the group reluctantly allows him to tag along in exchange for his assistance in their adventures across the continents.
 
 ### **Appearance**
 

@@ -22,17 +22,3 @@ Where Tucker wields his sword with flair, Thomas prefers the precision of the gu
 
 Efficient, unflinching, and ruthlessly decisive, Thomas rarely wastes a shot or a word. When danger strikes, he’s often the first to act, ending fights before they even begin.
 
-### **Appearance**
-
-
-
-### **Background**
-
-
-
-### **Current Activity**
-
-
-
-### **Known Associates**
-

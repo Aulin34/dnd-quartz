@@ -7,7 +7,7 @@ banner-y: 70
 > [!infobox]
 > # Staghall
 > ![[staghall_icon.jpg]]
-> ###### Population: 300k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 91% |

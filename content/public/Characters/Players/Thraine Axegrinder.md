@@ -5,11 +5,11 @@
 > | |  |
 > | ---- | ---- |
 > | **Race** | Duergar |
-> | **Class** | Artificer - Artillerist |
+> | **Class** | Artificer - Master Forger |
 > | **Origin** | [[Highspire]] |
 > | **Resides** | [[Novastra]] |
-> | **Affiliations** | College of [[Novastra]] |
-> | **Alignment** | Neutral Good |
+> | **Affiliations** | College of Novastra |
+> | **Alignment** | Lawful Neutral |
 
 ### **Overview**
 

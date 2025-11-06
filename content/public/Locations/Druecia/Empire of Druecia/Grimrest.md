@@ -7,7 +7,7 @@ banner-y: 4
 > [!infobox]
 > # Grimrest
 > ![[grimrest_icon.jpg]]
-> ###### Population: 5m
+> ###### Population: Large
 > |  |  |
 > | ---- | ---- |
 > | Human | 78% |

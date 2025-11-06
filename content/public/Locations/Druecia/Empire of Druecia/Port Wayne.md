@@ -7,7 +7,7 @@ banner-y: 20
 > [!infobox]
 > # Port Wayne
 > ![[portwayne_icon.jpg]]
-> ###### Population: 18k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Human | 97% |

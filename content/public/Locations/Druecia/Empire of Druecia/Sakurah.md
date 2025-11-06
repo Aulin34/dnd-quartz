@@ -7,7 +7,7 @@ banner-y: 10
 > [!infobox]
 > # Sakruah
 > ![[sakurah_icon.jpg]]
-> ###### Population: 413k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 75% |

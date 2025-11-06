@@ -7,7 +7,7 @@ banner-y: 13
 > [!infobox]
 > # Belmouth
 > ![[belmouth_icon.jpg]]
-> ###### Population: 146k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Human | 94% |

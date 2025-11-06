@@ -7,7 +7,7 @@ banner-y: 25
 > [!infobox]
 > # Cornhall
 > ![[cornhall_icon.jpg]]
-> ###### Population: 88k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Human | 98% |

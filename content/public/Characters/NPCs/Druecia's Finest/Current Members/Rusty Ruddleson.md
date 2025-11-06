@@ -22,17 +22,3 @@ Beneath his easy grin, Rusty hides a tangle of vices and vulnerabilities, a self
 
 Despite his flaws, he’s fiercely loyal to the crew and never hesitates to stand by them when trouble comes calling.
 
-### **Appearance**
-
-
-
-### **Background**
-
-
-
-### **Current Activity**
-
-
-
-### **Known Associates**
-

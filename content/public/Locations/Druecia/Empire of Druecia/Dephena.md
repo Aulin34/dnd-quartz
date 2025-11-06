@@ -7,7 +7,7 @@ banner-y: 64
 > [!infobox]
 > # Dephena
 > ![[dephena_icon.jpg]]
-> ###### Population: 678k
+> ###### Population: Medium
 > |  |  |
 > | ---- | ---- |
 > | Centaur | 68% |

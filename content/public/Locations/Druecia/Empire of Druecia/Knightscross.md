@@ -7,7 +7,7 @@ banner-y: 31
 > [!infobox]
 > # Knightscross
 > ![[knightscross_icon.jpg]]
-> ###### Population: 2.1m
+> ###### Population: Large
 > |  |  |
 > | ---- | ---- |
 > | Human | 90% |

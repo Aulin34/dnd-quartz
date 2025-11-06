@@ -9,11 +9,11 @@
 > | **Origin** | [[Autumngrove]] |
 > | **Resides** | [[Ember Woods]] |
 > | **Affiliations** | Cattivu's Will |
-> | **Alignment** | Chaotic Good |
+> | **Alignment** | True Neutral |
 
 ### **Overview**
 
-Sylas is a Chaotic Good tiefling whose outlook is shaped by both tragedy and resilience. Though outcast from society, he carries the perspective of once having been human and still believes people can look past his appearance to the person within. Rooted in the customs of [[Autumngrove]], he clings to that sense of belonging even as he carves out a life on the fringes. Disciplined from his years under the harsh rule of Cattivu’s Will, he approaches his goals with focus, though the scars of that time also left him overly trusting of others. He fears heights from his childhood death, a reminder of mortality that lingers in the back of his mind. While not a tactician or leader, Sylas thrives through confidence, emotional intuition, and practical wisdom. He earns trust when given the chance and embodying the quiet strength of someone determined to live true to himself despite chaos.
+Sylas is a tiefling whose outlook is shaped by both tragedy and resilience. Though outcast from society, he carries the perspective of once having been human and still believes people can look past his appearance to the person within. Rooted in the customs of [[Autumngrove]], he clings to that sense of belonging even as he carves out a life on the fringes. Disciplined from his years under the harsh rule of Cattivu’s Will, he approaches his goals with focus, though the scars of that time also left him overly trusting of others. He fears heights from his childhood death, a reminder of mortality that lingers in the back of his mind. While not a tactician or leader, Sylas thrives through confidence, emotional intuition, and practical wisdom. He earns trust when given the chance and embodying the quiet strength of someone determined to live true to himself despite chaos.
 
 ### **Appearance**
 

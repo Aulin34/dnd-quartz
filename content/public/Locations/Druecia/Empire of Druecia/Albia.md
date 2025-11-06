@@ -7,7 +7,7 @@ banner-y: 67
 > [!infobox]
 > # Albia
 > ![[albia_icon.jpg]]
-> ###### Population: 2m
+> ###### Population: Large
 > |  |  |
 > | ---- | ---- |
 > | Human | 95% |

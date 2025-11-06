@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Faywharf
 > ![[faywharf_icon.jpg]]
-> ###### Population: 13.5m
+> ###### Population: Massive
 > |  |  |
 > | ---- | ---- |
 > | Human | 70% |

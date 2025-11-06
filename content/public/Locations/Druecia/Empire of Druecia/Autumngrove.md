@@ -10,7 +10,7 @@ banner-y: 37
 > [!infobox]
 > # Autumngrove
 > ![[autumngrove_icon.jpg]]
-> ###### Population: 32 Million
+> ###### Population: Massive
 > |  |  |
 > | ---- | ---- |
 > | Human | 97% |

@@ -7,7 +7,7 @@ banner-y: 59
 > [!infobox]
 > # Accrington
 > ![[accrington_icon.jpg]]
-> ###### Population: 90k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Human | 86% |

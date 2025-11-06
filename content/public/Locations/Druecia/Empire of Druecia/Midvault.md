@@ -7,7 +7,7 @@ banner-y: 15
 > [!infobox]
 > # Midvault
 > ![[midvault_icon.jpg]]
-> ###### Population: 70k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Human | 95% |

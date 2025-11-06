@@ -7,7 +7,7 @@ banner-y: 32
 > [!infobox]
 > # Dupperville
 > ![[dupperville_icon.jpg]]
-> ###### Population: 60k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Human | 70% |

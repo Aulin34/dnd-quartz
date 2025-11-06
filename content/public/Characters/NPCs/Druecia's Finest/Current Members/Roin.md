@@ -21,18 +21,3 @@ His past remains shrouded in mystery, yet Roin possesses the uncanny ability to 
 Even more startling, he’s revealed flashes of potent magic, stepping forward to protect his companions through the Amethyst Vale and of Cinderforge.
 
 Despite the secrets that surround him, Roin’s heart is unmistakably kind, and his affection for Meowfi and Thraine runs deep.
-
-### **Appearance**
-
-
-
-### **Background**
-
-
-
-### **Current Activity**
-
-
-
-### **Known Associates**
-

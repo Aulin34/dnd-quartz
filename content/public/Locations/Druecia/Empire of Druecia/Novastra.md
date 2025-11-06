@@ -8,7 +8,7 @@ banner-height: 350
 > [!infobox]
 > # Novastra
 > ![[novastra_icon.jpg]]
-> ###### Population: 2.1m
+> ###### Population: Large
 > |  |  |
 > | ---- | ---- |
 > | Human | 85% |

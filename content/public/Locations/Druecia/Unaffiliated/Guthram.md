@@ -7,7 +7,7 @@ banner-y: 54
 > [!infobox]
 > # Guthram
 > ![[guthram_icon.jpg]]
-> ###### Population: 17k
+> ###### Population: Small
 > |  |  |
 > | ---- | ---- |
 > | Githzerai | 82% |
