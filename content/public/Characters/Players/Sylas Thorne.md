@@ -29,7 +29,9 @@ Now in the Ember Woods, Sylas devotes himself to mastering his chaotic powers, d
 
 ### **Known Associates**
 
-- **[[Lionel Caldwell]]** – Former academic peer; once collaborated with Sylas on experimental poisons. Now works with unknown forces, likely harboring resentment toward Sylas.
+- [[Lionel Caldwell]]
+
+- [[Felix Carlisle]]
 
 - [[Headmaster Grail]]
 

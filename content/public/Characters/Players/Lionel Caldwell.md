@@ -31,4 +31,6 @@ Operating as a traveling physician and alchemical consultant, Lionel continues t
 
 ### **Known Associates**
 
-- **[[Sylas Thorne]]** – A fellow student and unwitting collaborator in Lionel’s earliest Concord experiments. Provided key reagents and rare poisons. After a mysterious incident involving a fire in the college lab, [[Sylas]] was expelled. Lionel blames him for his downfall and harbors a deep-seated grudge.
+- [[Sylas Thorne]] 
+
+- [[Felix Carlisle]]

@@ -1,0 +1,1 @@
+![[ThraineEssay (1)-1.jpg]] ![[ThraineEssay (1)-2.jpg]] ![[ThraineEssay (1)-3.jpg]] ![[ThraineEssay (1)-4.jpg]] ![[ThraineEssay (1)-5.jpg]]

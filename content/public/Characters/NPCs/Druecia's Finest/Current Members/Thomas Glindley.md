@@ -21,4 +21,3 @@ His name carries both fame and infamy, forever shadowed by the whispered tale of
 Where Tucker wields his sword with flair, Thomas prefers the precision of the gun, and few alive can match his aim.
 
 Efficient, unflinching, and ruthlessly decisive, Thomas rarely wastes a shot or a word. When danger strikes, he’s often the first to act, ending fights before they even begin.
-
