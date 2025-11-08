@@ -17,7 +17,9 @@ Unknown
 
 ### **Appearance**
 
-A sleek, white-furred Tabaxi with piercing green eyes that gleam with sharp focus. Dressed in a dark green cloak and fitted leather armor, she carries herself with the quiet precision of a seasoned hunter. Her slender build, combined with the elegant sweep of her tail, gives them an agile and graceful presence, embodying both the lethality and elegance of a ranger.
+A sleek, white-furred Tabaxi with piercing green eyes that gleam with sharp focus. Dressed in a dark green cloak and fitted leather armor, she carries herself with the quiet precision of a seasoned hunter.
+
+Her slender build, combined with the elegant sweep of her tail, gives them an agile and graceful presence, embodying both the lethality and elegance of a ranger.
 
 ### **Background**
 

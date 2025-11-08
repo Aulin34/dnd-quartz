@@ -21,7 +21,7 @@
 ---
 **Difficulty**: <span style="color:rgb(255, 123, 0)">High</span>-<span style="color:rgb(112, 48, 160)">Extreme</span>  
 
-**Rewards**: Each find will be judged by the King himself, with rewards scaled to its significance.  
+**Rewards**: Each find will be judged by [[King Reginald Moon]] himself, with rewards scaled to its significance.  
 <span style="color:rgb(255, 192, 0)">Gold</span> – The rarer and more valuable the discovery, the greater the gold reward.  
 <span style="color:rgb(255, 192, 0)">Royal Favor</span> - Boost to personal reputation and influence across Albia.  
 <span style="color:rgb(255, 192, 0)">Exclusive Expedition Tools</span> – Enchanted maps, navigation charms, or survival gear granted to exceptional contributors.  
