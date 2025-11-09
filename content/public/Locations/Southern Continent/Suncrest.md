@@ -32,4 +32,4 @@ A friendly Suncrest man named Tyrese would tell the group more information of th
 
 Notably, he mentions that no one has come back from exploring region to the southwest.
 
-With the race to provide the [[King Reginald Moon]] with more information on the southern continent well underway, nothing is known of the current fate of Suncrest or its neighboring cities.
+With the race to provide [[King Reginald Moon]] with more information on the southern continent well underway, nothing is known of the current fate of Suncrest or its neighboring cities.

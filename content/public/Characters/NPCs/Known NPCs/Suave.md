@@ -29,4 +29,10 @@
 
 - Left Honos to allow Druecia's Finest to take credit.
 
-- Went into hiding after hearing about his bounty.
+- After hearing of the bounty on his head, he fled to [[Baldonia]], a ruined city situated on a remote island south of [[Yeen]].
+	- Druecia's Finest soon find him pondering beneath a statue.
+	- He is conflicted. He is unsure as to the greater purpose of gods in the world.
+	- After hearing mixed input from the group, he agrees to turn himself in to [[King Vultik Kastine]] of Honos.
+
+- In the coliseum of Honos, a massive worm burst out of the ground, spewing lava everywhere. Honos was nearly destroyed in the chaos, and the swarms of imps that followed.
+- Suave, glowing with light, decapitated the worm, destroying the swarms of imps with it.
