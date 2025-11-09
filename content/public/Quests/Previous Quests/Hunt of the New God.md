@@ -1,4 +1,4 @@
-<span style="color:rgb(255, 192, 0)">**Ongoing!**</span>
+<span style="color:rgb(0, 176, 80)">Complete!</span>
 ### Issued by: Kingdom of Honos
 
 ---

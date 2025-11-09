@@ -13,6 +13,6 @@
 
 ### **Notes**
 
-- Wields a massive canon
+- Wields a massive cannon
 
 - Really wanted to kill a blue bird outside of the [[Mysterious Stone Tower]].

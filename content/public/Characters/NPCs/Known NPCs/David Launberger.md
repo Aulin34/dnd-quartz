@@ -4,7 +4,7 @@
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | **Race** | Human |
+> | **Race** | Half-Elf |
 > | **Origin** | Unknown |
 > | **Relationship** | Friendly |
 > | **Traits** | Wise, Polite, Suave Fanatic |
