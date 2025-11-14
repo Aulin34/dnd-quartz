@@ -1,3 +1,4 @@
+<span style="color:rgb(255, 192, 0)">**Ending Soon!**</span>
 ### Issued by: Council of Dephena
 
 ---
