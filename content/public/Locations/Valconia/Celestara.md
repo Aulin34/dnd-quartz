@@ -20,6 +20,6 @@
 
 Nearly nothing is known of Celestara.
 
-The [[Queen of Moonspire]] noted the importance of this city in the independence and survival of the southern continent altogether.
+The [[Queen of Moonspire]] noted the importance of this city in the independence and survival of the Valconia altogether.
 
 Nesting Celestara away from the rest of the continent is a cursed valley within a treacherous mountain range, home to mysterious dwarves.
