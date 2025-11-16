@@ -5,16 +5,23 @@
 > | |  |
 > | ---- | ---- |
 > | **Race** | Elven |
-> | **Origin** | Thaldorra |
-> | **Relationship** | Unknown |
-> | **Traits** | Unknown |
+> | **Origin** | Thalldora |
+> | **Relationship** | Good |
+> | **Traits** | Smart, Charismatic |
 > | **Affiliations** | House Valerae |
 > | **Status** | Alive |
 
 ### **Notes**
 
--  Offered the group information about [[The Ashen Maw]]'s plans and the possibility of a joint attack between [[Nyvara]] and the [[Empire of Druecia]].
+- - Ruled [[Thalldora]] before the gods died.
+	- Is now a council member 
 
-- Proposed that he will act as the overseer of [[Thaldorra]] in exchange for assurances that the attack on The Ashen Maw will go ahead as planned.
+- Had a secret meeting of rich aristocrats before speaking with Dreucia's Finest.
+
+- Offered the group information about [[The Ashen Maw]]'s plans and the possibility of a joint attack between [[Nyvara]] and the [[Empire of Druecia]].
+
+- Proposed that he will act as the overseer of [[Thalldora]] in exchange for assurances that the attack on The Ashen Maw will go ahead as planned.
+
+- Told [[Meowfi Smoothfang]] to seek out the [[Cave of Love]] to find where her mother is.
 
 - Unsure of his true intentions.

@@ -9,7 +9,7 @@
 > | **Origin** | [[Autumngrove]] |
 > | **Resides** | [[Ember Woods]] |
 > | **Affiliations** | Cattivu's Will |
-> | **Alignment** | True Neutral |
+> | **Alignment** | Neutral-Evil |
 
 ### **Overview**
 

@@ -4,15 +4,17 @@
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | **Race** | Tabaxi |
-> | **Origin** | Unknown |
-> | **Relationship** | Unknown |
-> | **Traits** | Unknown |
-> | **Affiliations** | Unknown |
+> | **Race** | Leonin |
+> | **Origin** | Qino |
+> | **Relationship** | Very Friendly |
+> | **Traits** | Chill, Friendly, Strong |
+> | **Affiliations** | Qino |
 > | **Status** | Alive |
 
 ### **Notes**
 
 - Father to [[Crubby Whitemane]].
 
-- Guided the group to the council of [[Qino]].
+- Sent his son to guide the group to the council of [[Qino]].
+
+- Trusted his son to be safe despite the danger.

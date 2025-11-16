@@ -21,7 +21,7 @@
 > | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Kingdom | Almera |
 
-Thaldorra is an ancient city, originally two separate cities—Thal and Dorra—on either side of a vast canal. According to legend, a Fey god would part the waters between the cities, allowing the people to unite. Over time, a great bridge was constructed across the canal, merging the cities into Thaldorra, a name that symbolizes the coming together of both.
+Thaldorra is an ancient city, originally two separate cities—Thal and Dora—on either side of a vast canal. According to legend, a Fey god would part the waters between the cities, allowing the people to unite. Over time, a great bridge was constructed across the canal, merging the cities into Thaldorra, a name that symbolizes the coming together of both.
 
 As the capital of Almera, Thaldorra stands as a symbol of immense wealth, largely derived from its strategic control of global trade routes and the canal. The city heavily taxes both trade and passage through these waters, making it a thriving hub of commerce.
 

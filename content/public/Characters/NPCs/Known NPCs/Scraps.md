@@ -16,3 +16,5 @@
 - Member of a mercenary group from [[Honos]].
 
 - Negotiated the release of [[Willis Bilston]].
+
+- Missing jaw.

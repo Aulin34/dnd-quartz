@@ -35,4 +35,5 @@
 	- After hearing mixed input from the group, he agrees to turn himself in to [[Vultik Kastine]] of Honos.
 
 - In the coliseum of Honos, a massive worm burst out of the ground, spewing lava everywhere. Honos was nearly destroyed in the chaos, and the swarms of imps that followed.
+
 - Suave, glowing with light, decapitated the worm, destroying the swarms of imps with it.

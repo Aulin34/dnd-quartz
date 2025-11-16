@@ -23,7 +23,7 @@ We now bring you the King’s official statement:
 	I wish to serve the rest of my life making up for the mistakes I have made.
 	This is why I will remain in Honos.
 	I will be giving up my right as the next Emperor of Druecia. My priorities must remain here, with my people.
-	Lastly, I will say this: to my dying breath, I will personally see the fall of Cattivus Will, Suave, and the Ashen Maw.
+	Lastly, I will say this: to my dying breath, I will personally see the fall of Cattivu's Will, The False God Suave, and The Ashen Maw.
 	There is no greater threat to the world than them.”
 
 In addition to the King’s statement, he has awarded Tucker Glindley the Honos Medal of Honor and Bravery for saving the King’s life and the lives of dozens of others
@@ -51,6 +51,6 @@ Citizens of Druecia — remain vigilant.
 We will not bow to fear, nor yield to false gods.
 Together, under the Crown and the Empress, we endure.
 
-For the realm. For the safety of all. For the truth enduring."
+For the realm. For the safety of all. For the truth enduring.
 
 ```
