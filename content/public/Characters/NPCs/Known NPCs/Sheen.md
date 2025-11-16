@@ -24,7 +24,6 @@
 - Fought with the Steelrun mercenary group and Druecia's Finest to kill the Cyclops and the Froghemoth.
 
 - After the battle, Sheen took the opportunity to kill Tucker while he was downed.
+	- Tucker was immediately revived by the Cyclops' tear.
 
-- Tucker was immediately revived by the Cyclops' tear/
-
-- Sheen was murdered by Dadaka.
+- Sheen was then brutally murdered by Dadaka to cover up for the assassination plot.

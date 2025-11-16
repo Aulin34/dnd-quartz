@@ -33,3 +33,10 @@ Missionaries from Aetheryn travel across the world, offering aid and protection 
 
 The city is governed by a council elected by the people — a rare form of democracy in this world. Elections are held every few years, and despite the challenges of self-rule, Aetheryn remains one of the few cities where democracy has thrived for generations.
 
+
+> [!bug] Images
+> 
+> ![[kakada_old.png]] ![[kakada_teen.png]] ![[kakada.png]]
+
+
+

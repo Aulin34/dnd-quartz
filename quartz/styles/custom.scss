@@ -411,5 +411,26 @@ article [id] > a[role="anchor"] svg {
 }
 
 
+.callout[data-callout="bug"] {
+	max-width: none !important;
+  	width: 100% !important;
+  	margin-left: 0 !important;
+  	margin-right: 0 !important;
+}
 
+/* Only apply 3-image grid styling to BUG callouts */
+.callout[data-callout="bug"] .callout-content {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  align-items: start;
+}
+
+.callout[data-callout="bug"] .callout-content img {
+  max-width: 50%;
+	width: 50%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 5px;
+}
 

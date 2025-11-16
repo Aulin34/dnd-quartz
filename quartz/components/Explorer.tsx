@@ -23,11 +23,15 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  folderDefaultState: "collapsed",
-  folderClickBehavior: "link",
+  folderDefaultState: "open",
+  folderClickBehavior: "collapse",
   useSavedState: true,
   mapFn: (node) => {
-    return node
+	if (node.isFolder && node.slugSegment === "public") {
+      	// Return all child nodes directly (flattening)
+      	return node.children ?? []
+    	}
+    	return node
   },
   sortFn: (a, b) => {
     // Sort order: folders first, then files. Sort folders and files alphabeticall
