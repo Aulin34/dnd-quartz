@@ -27,14 +27,22 @@ In a rather predictable turn of fate, his rapid aging would become his demise. A
 
 ### **Gallery - WORK IN PROGRESS**
 
-> [!infobox]
-> # Baby Kakada
-> ![[babydadaka.png]]
-> # Young Kakada
-> ![[akada.png]]
-> # Teen Kakada
-> ![[kakada_teen.png]]
-> # Man Kakada
-> ![[kakada.png]]
-> # Old Kakada
-> ![[kakada_old.png]]
+> [!danger]- ‎ Baby Kakada
+> >[!danger] ‎ 
+> >![[babydadaka.png]]
+
+> [!danger]- Young Kakada
+> > [!danger] ‎ 
+> > ![[akada.png]]
+
+> [!danger]- Teen Kakada
+> > [!danger] ‎ 
+> > ![[kakada_teen.png]]
+
+> [!danger]- Man Kakada
+> > [!danger] ‎ 
+> > ![[kakada.png]]
+
+> [!danger]- Old Kakada
+> > [!danger] ‎ 
+> > ![[kakada_old.png]] 

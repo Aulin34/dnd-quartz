@@ -13,4 +13,49 @@
   </div>
 </div>
 
+---
+
+<h3>Latest Updates</h3>
+
+- Nov. 16th, 2025
+
+> [!success]- Players‎ 
+> > [!success] ‎ 
+> > 
+> > [[Sylas Thorne]] -- Updated alignment
+
+> [!question]- NPCs‎ 
+> > [!question] ‎ 
+> > 
+> > [[Sheen]] -- Added
+> > 
+> > [[Keno]] -- Added
+> >
+> > [[Pickle]] -- Added
+> >
+> > [[Johnny Test]] -- Added
+> > 
+> > [[JFK]] -- Added
+> >
+> > [[Eights]] -- Added
+> >
+> > [[Cyclops]] -- Added
+> > 
+> > [[Bombshell]] -- Updated
+> >
+> > [[Gavrey]] -- Updated
+
+> [!bug]- Quests
+> > [!bug] ‎ 
+> > 
+> > [[Shifting Winds]] -- Quest Ended
+> > 
+> > [[A Fabulous Day for Croquet]] -- Quest Ended
+
+> [!quote]- Session Notes‎ 
+> > [!quote] ‎ 
+> > 
+> > [[s12-B-11152025]] -- Added
+
+
 

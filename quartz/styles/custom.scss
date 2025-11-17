@@ -114,9 +114,13 @@ pre, code {
 	color: var(--secondary);
 }
 
-img {
-	max-width: 20%;
+#quartz-body img,
+.callout img,
+.page img {
+    max-width: 20%;
+    height: auto;
 }
+
 .callout-content-inner p{
 	margin-bottom: 0;
 }
@@ -172,18 +176,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .callout img {
-  margin: 0 auto !important;
   display: block;
 }
 
 
 .infobox img {
-  max-width: 100%;                  /* keep images contained */
-  display: block;
+  	max-width: 100% !important;
+	display: block;
 	border-radius: 2px;
 }
 
-.callout-title {
+.callout[data-callout="infobox"] .callout-title {
 	display: none !important;
 }
 
@@ -192,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 	width: 100%;
 	font-weight: bold;
-	margin: 0rem 0rem -1rem 0rem;
+	margin: 12px 0rem -1rem 0rem;
 	background-color: #0b0f13;
 }
 
@@ -411,26 +414,14 @@ article [id] > a[role="anchor"] svg {
 }
 
 
-.callout[data-callout="bug"] {
-	max-width: none !important;
-  	width: 100% !important;
-  	margin-left: 0 !important;
-  	margin-right: 0 !important;
+.callout .callout .callout-icon {
+	display: none !important;
 }
 
-/* Only apply 3-image grid styling to BUG callouts */
-.callout[data-callout="bug"] .callout-content {
-  display: grid !important;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0.75rem;
-  align-items: start;
+.callout .callout .callout-title {
+	display: none !important;
 }
 
-.callout[data-callout="bug"] .callout-content img {
-  max-width: 50%;
-	width: 50%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 5px;
+.callout > .callout-content > :first-child {
+	margin-top: -16px;
 }
-
