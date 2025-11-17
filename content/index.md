@@ -17,6 +17,13 @@
 
 <h3>Latest Updates</h3>
 
+- Nov. 17th, 2025
+
+> [!example]- Druecian Radio
+> > [!example]
+> >
+> > [[11162025 - Divide and Conquer]] -- Added
+
 - Nov. 16th, 2025
 
 > [!success]- Players‎ 
