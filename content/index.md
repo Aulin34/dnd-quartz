@@ -22,47 +22,47 @@
 > [!example]- Druecian Radio
 > > [!example]
 > >
-> > [[2025-11-16 - Divide and Conquer]] -- Added
+> > [[2025-11-16 - Divide and Conquer]] -- <span style="color:rgb(0, 176, 80)">Added</span>
 
 - Nov. 16th, 2025
 
 > [!success]- Players‎ 
 > > [!success] ‎ 
 > > 
-> > [[Sylas Thorne]] -- Updated alignment
+> > [[Sylas Thorne]] -- <span style="color:rgb(255, 192, 0)">Updated alignment</span>
 
 > [!question]- NPCs‎ 
 > > [!question] ‎ 
+> >
+> > [[Sheen]] -- <span style="color:rgb(0, 176, 80)">Added</span>
 > > 
-> > [[Sheen]] -- Added
+> > [[Keno]] -- <span style="color:rgb(0, 176, 80)">Added</span> 
+> >
+> > [[Pickle]] -- <span style="color:rgb(0, 176, 80)">Added</span>
+> >
+> > [[Johnny Test]] -- <span style="color:rgb(0, 176, 80)">Added</span>
 > > 
-> > [[Keno]] -- Added
+> > [[JFK]] -- <span style="color:rgb(0, 176, 80)">Added</span>
 > >
-> > [[Pickle]] -- Added
+> > [[Eights]] -- <span style="color:rgb(0, 176, 80)">Added</span> 
 > >
-> > [[Johnny Test]] -- Added
+> > [[Cyclops]] -- <span style="color:rgb(0, 176, 80)">Added</span>
 > > 
-> > [[JFK]] -- Added
+> > [[Bombshell]] -- <span style="color:rgb(255, 192, 0)">Updated</span>
 > >
-> > [[Eights]] -- Added
-> >
-> > [[Cyclops]] -- Added
-> > 
-> > [[Bombshell]] -- Updated
-> >
-> > [[Gavrey]] -- Updated
+> > [[Gavrey]] -- <span style="color:rgb(255, 192, 0)">Updated</span>
 
 > [!bug]- Quests
 > > [!bug] ‎ 
+> >
+> > [[Shifting Winds]] -- <span style="color:rgb(255, 123, 0)">Quest Ended</span>
 > > 
-> > [[Shifting Winds]] -- Quest Ended
-> > 
-> > [[A Fabulous Day for Croquet]] -- Quest Ended
+> > [[A Fabulous Day for Croquet]] -- <span style="color:rgb(255, 123, 0)">Quest Ended</span>
 
 > [!quote]- Session Notes‎ 
 > > [!quote] ‎ 
-> > 
-> > [[s12-B-20251115]] -- Added
+> >
+> > [[s12-B-20251115]] -- <span style="color:rgb(0, 176, 80)">Added</span>
 
 
 
