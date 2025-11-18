@@ -22,7 +22,7 @@
 > [!example]- Druecian Radio
 > > [!example]
 > >
-> > [[11162025 - Divide and Conquer]] -- Added
+> > [[2025-11-16 - Divide and Conquer]] -- Added
 
 - Nov. 16th, 2025
 
@@ -62,7 +62,7 @@
 > [!quote]- Session Notes‎ 
 > > [!quote] ‎ 
 > > 
-> > [[s12-B-11152025]] -- Added
+> > [[s12-B-20251115]] -- Added
 
 
 

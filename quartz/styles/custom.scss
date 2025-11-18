@@ -1,40 +1,24 @@
 @use "./base.scss";
 
 pre, code {
-  white-space: pre-wrap;     /* Wrap long lines */
-  word-wrap: break-word;     /* Break long words if necessary */
-  overflow-x: hidden;        /* Hide horizontal scrollbar */
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-x: hidden;
 }
 
+/* Hide article titles on index-like pages */
 [data-slug$="/index"] .popover-hint .article-title,
-[data-slug="/"] .popover-hint .article-title {
-  display: none !important;
-}
-
+[data-slug="/"] .popover-hint .article-title,
 [data-slug="index"] .popover-hint .article-title {
   display: none !important;
 }
 
-#image-preservation {
-  max-width: 59% !important;
-}
-
-#image-chaos {
-  max-width: 59% !important;
-}
-
-#image-entropy {
-  max-width: 59% !important;
-}
-
-#image-order {
-  max-width: 59% !important;
-}
-
-#image-transcendence {
-  max-width: 59% !important;
-}
-
+/* Image size overrides */
+#image-preservation,
+#image-chaos,
+#image-entropy,
+#image-order,
+#image-transcendence,
 #image-expansion {
   max-width: 59% !important;
 }
@@ -51,7 +35,7 @@ pre, code {
   font-family: "Cinzel", serif;
 }
 
-/* the grid container */
+/* Grid */
 .landing-grid {
   display: grid;
   grid-template-columns: repeat(4, 220px);
@@ -59,7 +43,7 @@ pre, code {
   justify-content: center;
 }
 
-/* the buttons themselves */
+/* Buttons */
 .landing-btn {
   display: flex;
   align-items: center;
@@ -67,29 +51,26 @@ pre, code {
   height: 100px;
   font-size: 1.3rem;
   font-weight: bold;
-  color: var(--light);
+  color: var(--bodyFont);
   border-radius: 12px;
   text-decoration: none;
   transition: transform 0.2s ease, background-color 0.2s ease;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  color: var(--bodyFont);
 }
 
 .landing-btn:hover {
   transform: translateY(-4px);
 }
 
-/* individual colors */
+/* Individual colors */
 .landing-btn.btn-1 {
-	background-color: #3b82f6;
-	color: white;
-	content: "";
-  	position: relative;
-  	/* background-image: url("assets/Images/Locations/Main/druecia.png"); */
-  	background-size: 208%;
-  	background-position: center;
-  	opacity: 1; /* 10% visibility for subtle texture */
-  	}
+  background-color: #3b82f6;
+  color: white;
+  position: relative;
+  background-size: 208%;
+  background-position: center;
+  opacity: 1;
+}
 .landing-btn.btn-2 { background-color: #10b981; color: white; }
 .landing-btn.btn-3 { background-color: #f59e0b; color: white; }
 .landing-btn.btn-4 { background-color: #ef4444; color: white; }
@@ -98,6 +79,7 @@ pre, code {
 .landing-btn.btn-7 { background-color: #f97316; color: white; }
 .landing-btn.btn-8 { background-color: #64748b; color: white; }
 
+/* Sidebar icons */
 .sidebar.left .explorer-content ul li > a::before {
   content: '';
   display: inline-block;
@@ -110,19 +92,24 @@ pre, code {
   background-color: currentColor;
 }
 
-.explorer-content ul li > a.active{
-	color: var(--secondary);
+.explorer-content ul li > a.active {
+  color: var(--secondary);
 }
 
+/* Image defaults */
 #quartz-body img,
 .callout img,
 .page img {
-    max-width: 20%;
-    height: auto;
+  max-width: 20%;
+  height: auto;
 }
 
-.callout-content-inner p{
-	margin-bottom: 0;
+.callout img {
+  display: block;
+}
+
+.callout-content-inner p {
+  margin-bottom: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -135,32 +122,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #quartz-body {
-	padding: 0rem 2rem 0rem 0rem !important;
+  padding: 0rem 2rem 0rem 0rem !important;
 }
 
-#quartz-body .center{
-	padding: 0 1rem !important;
+#quartz-body .center {
+  padding: 0 1rem !important;
 }
 
-.folder-container div > a{
-	font-size: 1rem;
-	font-family: var(--bodyFont);
-	font-weight: bold;
+.folder-container div > a {
+  font-size: 1rem;
+  font-family: var(--bodyFont);
+  font-weight: bold;
 }
 
-.page > #quartz-body footer{
-	margin-left: 15px;
+.page > #quartz-body footer {
+  margin-left: 15px;
 }
 
-.explorer-content ul li > a{
-	font-size: 1rem;
+.explorer-content ul li > a {
+  font-size: 1rem;
 }
 
-/* --- Infobox Styles --- */
+/* Infobox */
 .infobox {
-  float: right;                     /* move to the right */
-  width: 300px;                     /* fixed width like Wikipedia */
-  margin: 0 0 1rem 1rem;            /* space from text */
+  float: right;
+  width: 300px;
+  margin: 0 0 1rem 1rem;
   border: 1px solid #6e2b2b;
   border-radius: 2px;
   background-color: var(--light);
@@ -169,78 +156,52 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
-.infobox h3, 
+.infobox h1 {
+  font-size: 1.2rem !important; /* or whatever size you want */
+  text-align: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
+	background-color: #0b0f13;
+}
+
+.infobox h3,
 .infobox strong {
   color: var(--link);
   margin-top: 0.2rem;
 }
 
-.callout img {
-  display: block;
-}
-
-
 .infobox img {
-  	max-width: 100% !important;
-	display: block;
-	border-radius: 2px;
+  max-width: 100% !important;
+  display: block;
+  border-radius: 2px;
+	margin: -.8rem 0;
 }
 
 .callout[data-callout="infobox"] .callout-title {
-	display: none !important;
+  display: none !important;
+}
+
+/* Callout headings */
+.callout-content-inner h1,
+.callout h6,
+.callout h5,
+.callout h4,
+.callout h2 {
+  text-align: center !important;
+  width: 100%;
+  font-weight: bold;
+  background-color: #0b0f13;
+  margin: 0;
+  padding: 0.25rem 0;
 }
 
 .callout-content-inner h1 {
   font-size: 1.1rem !important;
-	text-align: center;
-	width: 100%;
-	font-weight: bold;
-	margin: 12px 0rem -1rem 0rem;
-	background-color: #0b0f13;
-}
-
-.callout h6 {
-  text-align: center !important;
-  width: 100%;
-  font-weight: bold;
-  padding: 0.25rem 0;
-  background-color: #0b0f13;
-  letter-spacing: 1px;
-	margin: 0rem;
-}
-
-.callout h5 {
-  text-align: center !important;
-  width: 100%;
-  font-size: 1.1rem !important;
-  font-weight: bold;
-  background-color: #0b0f13;
-  padding: 0.25rem 0;
-	margin: 0rem;
-}
-
-.callout h4 {
-  text-align: center !important;
-  width: 100%;
-  font-size: 1.1rem !important;
-  font-weight: bold;
-  background-color: #0b0f13;
-  padding: 0.25rem 0;
-	margin: 0rem;
-}
-
-.callout h2 {
-  text-align: center !important;
-  width: 100%;
-  font-size: 1.1rem !important;
-  font-weight: bold;
-  background-color: #0b0f13;
-  padding: 0.25rem 0;
-	margin: 0rem;
+  margin: 12px 0 -1rem 0;
 }
 
 .callout table {
-	margin: 0rem;
+  margin: 0;
 }
 
 .callout table tr {
@@ -252,90 +213,85 @@ h1, h2, h3, h4, h5, h6 {
   border: none !important;
 }
 
-.callout h3 {
-  text-align: left !important;
-	width: 100%;
-  font-weight: normal;
-  letter-spacing: 1px;
-	margin: 0rem;
-}
-
 .callout ul {
   list-style: none;
-	text-align: left !important;
-	width: 100%;
+  text-align: left !important;
+  width: 100%;
   padding: 0;
   margin: 0;
 }
 
+.callout > .callout-content > :first-child{
+	margin-top: 22px;
+}
+
+.callout.is-collapsed .callout-content > :first-child{
+	margin-top: -2px;
+}
+
+/* Table widths */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
 table th,
 table td {
-  width: auto;     /* let them expand evenly */
   word-wrap: break-word;
 }
 
-/* First table header */
+/* Table headers */
 tr th:first-child {
   background-color: #6e2b2b;
   color: var(--light);
-	text-align: left;
+  text-align: left;
 }
 
-/* Second table header */
 tr th:nth-child(2) {
   background-color: #471c1c;
   color: var(--light);
-	text-align: left;
+  text-align: left;
 }
 
-/* Hover highlight effect */
+/* Row hover */
 .infobox table tr:hover {
-  background-color: #471c1c !important;  /* highlight row */
-  cursor: pointer;                    /* optional, makes it feel interactive */
+  background-color: #471c1c !important;
+  cursor: pointer;
 }
 
-/* Hover still highlights the whole row */
 .infobox table tbody tr:hover td {
   background-color: rgba(197, 89, 89, 0.12) !important;
   transition: background-color 0.15s ease;
 }
 
-.infobox table {
-  width: 100%;
-  border-collapse: collapse; /* no gaps between cells */
-}
-
+/* Row stripes */
 .infobox table tbody tr:nth-child(odd) > * {
-  background-color: var(--light); /* light stripe (adjust) */
+  background-color: var(--light);
 }
 
 .infobox table tbody tr:nth-child(even) > * {
-  background-color: #15191e; /* darker stripe (adjust) */
+  background-color: #15191e;
 }
 
-
-table {
-  width: 100%;
-  border-collapse: collapse; /* removes gaps between cells */
-  table-layout: fixed;       /* forces equal column widths */
-}
-
+/* Callout cells */
 .callout td {
-	padding: .2rem .2rem;
+  padding: .2rem .2rem;
 }
 
 .callout tbody {
-	line-height: 1.6rem;
-	font-size: 1.2rem; 
+  line-height: 1.6rem;
+  font-size: 1.2rem;
 }
 
+/* Callout list items */
 .callout li {
   padding: 1px 1px;
   background-color: #222;
   border-top: 1px solid #444;
-	text-align: left !important;
-	width: 100%;
-	font-size: 16px;
+  text-align: left !important;
+  width: 100%;
+  font-size: 16px;
   border-bottom: 1px solid #444;
   margin: 0;
   letter-spacing: 1px;
@@ -354,20 +310,9 @@ table {
   font-weight: bold;
 }
 
-article [id] > a[href^="#"],
-article [id] > a[role="anchor"],
-h1[id] > a[href^="#"],
-h2[id] > a[href^="#"],
-h3[id] > a[href^="#"],
-h4[id] > a[href^="#"],
-h5[id] > a[href^="#"],
-h6[id] > a[href^="#"],
-h1 > a[role="anchor"],
-h2 > a[role="anchor"],
-h3 > a[role="anchor"],
-h4 > a[role="anchor"],
-h5 > a[role="anchor"],
-h6 > a[role="anchor"] {
+/* Hide anchors */
+[id] > a[href^="#"],
+[id] > a[role="anchor"] {
   display: none !important;
   visibility: hidden !important;
   pointer-events: none !important;
@@ -378,50 +323,59 @@ h6 > a[role="anchor"] {
   overflow: hidden !important;
 }
 
-article [id] > a[href^="#"]::before,
-article [id] > a[role="anchor"]::before,
-article [id] > a[href^="#"] svg,
-article [id] > a[role="anchor"] svg {
+[id] > a[href^="#"]::before,
+[id] > a[role="anchor"]::before,
+[id] > a[href^="#"] svg,
+[id] > a[role="anchor"] svg {
   display: none !important;
   content: none !important;
 }
 
-[id] > a[href^="#"], [id] > a[role="anchor"] {
+[id] > a[href^="#"],
+[id] > a[role="anchor"] {
   line-height: 0 !important;
 }
 
-/* Darker left sidebar with shadow separator */
+/* Sidebar */
 .sidebar.left {
-  background-color: #20252c; /* darker than page body */
-  color: var(--light);       /* make text readable */
-  box-shadow: 15px 0 20px #00000040; /* shadow to the right */
-  z-index: 2;                /* keep shadow above content */
+  background-color: #20252c;
+  color: var(--light);
+  box-shadow: 15px 0 20px #00000040;
+  z-index: 2;
 }
 
-/* Optional: adjust link colors inside sidebar */
 .sidebar.left a {
   color: var(--darkgray);
 }
+
 .sidebar.left a:hover {
+  color: #fff;
+  background-color: #e35b5b !important;
+  cursor: pointer;
+}
+
+.page > #quartz-body .sidebar {
+	padding: 1rem 1rem 2rem;
+}
+
+/* Folder button hover */
+.folder-container div > button:hover {
+  color: #fff;
+  background-color: #e35b5b !important;
+  cursor: pointer;
+}
+
+.folder-container div > button span {
   color: var(--dark);
-	background-color: #471c1c !important;  /* highlight row */
-  cursor: pointer; 
 }
 
-.page > #quartz-body .sidebar{
-	padding: 1rem;
-	width: 100%;
-}
-
-
-.callout .callout .callout-icon {
-	display: none !important;
-}
-
+/* Remove nested callout icons/titles */
+.callout .callout .callout-icon,
 .callout .callout .callout-title {
-	display: none !important;
+  display: none !important;
 }
 
-.callout > .callout-content > :first-child {
-	margin-top: -16px;
+/* Folder tree border */
+.explorer-content .folder-outer > ul {
+  border-left: 1px solid #bf4b4b99 !important;
 }
