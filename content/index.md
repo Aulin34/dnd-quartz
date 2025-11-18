@@ -1,3 +1,6 @@
+---
+title: "Embers of Progress Wiki"
+---
 <div class="landing">
   <h1>Ignite the Embers of Progress</h1>
 
