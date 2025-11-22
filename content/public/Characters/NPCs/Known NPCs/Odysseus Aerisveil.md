@@ -20,3 +20,5 @@
 - Kickstarted peace negotiation of [[Paw'merra]].
 
 - Exiled Orin out of Aetheryn over the death of their sister by Cattivu's Will.
+
+- Attended the Eastern Conclave.

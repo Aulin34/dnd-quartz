@@ -25,3 +25,7 @@
 - Told [[Meowfi Smoothfang]] to seek out the [[Cave of Love]] to find where her mother is.
 
 - Unsure of his true intentions.
+
+- Attended the Eastern Conclave.
+
+- Under direction of [[Celine Emberfall]], arrested Thraine and Meowfi for betraying the Empire.

@@ -19,4 +19,13 @@
 
 - Rewarded Druecia's Finest with airship for their loyalty to the Kingdom of Autumngrove.
 
-- Emperor of Druecian Empire.
+- Empress of Druecian Empire.
+
+- Suspicious of Druecia's Finest after their many meetings with opposing parties.
+	- Worked with Lionel to set up the arrest of most of the group, including Thraine, Meowfi, Sylas, and Dadaka.
+
+- Supported the unification of the east during the Eastern Conclave.
+
+- Relinquished Autumngrove of it's independence to the Kingdom of Albia.
+
+- With no direct heir, wishes to elect one through a council of the kingdoms.

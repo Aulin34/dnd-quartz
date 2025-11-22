@@ -17,6 +17,6 @@
 
 - Hates the uneducated.
 
-- Hand was eaten by [[King Tybre II]]'s tiger.
+- Hand was eaten by [[Tybre II]]'s tiger.
 
 - Lost a LOT of blood.

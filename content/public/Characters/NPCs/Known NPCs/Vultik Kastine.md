@@ -19,7 +19,7 @@
 	- Tried to take the elves out before the gods disappeared and contributed the most participation in resistance against elves.
 
 -  Was next in line to become Emperor
-	-This is why he believes Honos was targeted by the disease
+	- This is why he believes Honos was targeted by the disease
  
 - Stabbed through the heart by [[Patient Zero]].
 
@@ -30,3 +30,10 @@
 - Set bounty on Suave believing that he has dark ulterior motives
 
 - After the great fire worm destroyed much of Honos, he resigned from his position as King of Honos.
+
+- Attended the Eastern Conclave.
+
+- After the complete restructuring of the Empire caused by the Eastern Conclave, Vultik rules Honos once again.
+	- Considered a potential Emperor in the succession line, but will refuse in order to prioritize Honos.
+
+- Weary of [[Faywharf]] and their growing influence.

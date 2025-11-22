@@ -17,6 +17,6 @@
 
 - Wanted to free the prisoner of the [[Mysterious Stone Tower]].
 
-- [[Jericho's Brother]] wanted him to be home by 8.
+- [[Davis Freeman]] wanted him to be home by 8.
 
 - Smashed to death by [[Dadaka]].

@@ -17,4 +17,4 @@
 
 - Hired Scooby Doo Gang.
 
-- Likely murdered by [[King Tybre II]].
+- Likely murdered by [[Tybre II]].

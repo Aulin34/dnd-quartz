@@ -13,11 +13,11 @@
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | Laws | <span style="color:rgb(80, 200, 220)">???</span> |
-> | Wealth | <span style="color:rgb(80, 200, 220)">???</span> |
-> | Government | <span style="color:rgb(80, 200, 220)">???</span> |
-> | Civil Unrest | <span style="color:rgb(80, 200, 220)">???</span> |
-> | Kingdom | <span style="color:rgb(80, 200, 220)">???</span> |
+> | Laws | <span style="color:rgb(255, 192, 0)">Medium</span> |
+> | Wealth | <span style="color:rgb(255, 123, 0)">Comfortable</span> |
+> | Government | Unknown |
+> | Civil Unrest | <span style="color:rgb(0, 176, 80)">Low</span> |
+> | Kingdom | Autumngrove |
 
 Despite the unknown or otherwise secretive nature that defines much of the Valconia, Suncrest stands out as a bustling, lively exception. Beings of all walks of life can be found in the sprawling streets and market centers of Suncrest. Airships dominate its skies, carrying tourists from the furthest corners of Druecia and Nyvara.
 
@@ -32,4 +32,4 @@ A friendly Suncrest man named Tyrese would tell the group more information of th
 
 Notably, he mentions that no one has come back from exploring region to the southwest.
 
-With the race to provide [[King Reginald Moon]] with more information on the Valconia well underway, nothing is known of the current fate of Suncrest or its neighboring cities.
+With the race to provide [[Reginald Moon]] with more information on the Valconia well underway, nothing is known of the current fate of Suncrest or its neighboring cities.
