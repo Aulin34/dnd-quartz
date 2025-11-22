@@ -95,6 +95,8 @@ title: "Embers of Progress Wiki"
 > > 
 > > [[Odysseus Aerisveil]] -- <span style="color:rgb(255, 192, 0)">Updated</span>
 > >
+> > [[Pickle]] -- <span style="color:rgb(255, 192, 0)">Updated</span>
+> > 
 > > [[Sir Quinton Valerae]] -- <span style="color:rgb(255, 192, 0)">Updated</span> 
 > >
 > > [[Thomas Glindley]] -- <span style="color:rgb(255, 192, 0)">Updated</span>

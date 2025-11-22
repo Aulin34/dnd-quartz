@@ -9,7 +9,7 @@
 > | **Relationship** | Neutral |
 > | **Traits** | Mysterious, Picky |
 > | **Affiliations** | The Pit |
-> | **Status** | Alive |
+> | **Status** | Unknown |
 
 ### **Notes**
 
@@ -21,3 +21,5 @@
 	- Dadaka began to wither away before Sylas convinced Pickle to enter his mouth again and give him life force.
 
 - Supposedly "doesn't need" Dadaka to survive. Talk about an upset stomach!
+
+- After Dadaka was killed at the Eastern Conclave, the status of Pickle or those like him is unknown.

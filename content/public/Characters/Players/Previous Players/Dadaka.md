@@ -14,7 +14,9 @@
 
 ### **Overview**
 
-Unknown
+Joined Druecia's Finest and embarked on many quests. A great fighter, he mostly proved himself useful in battle.
+
+Brutally killed a man in Dupperville, which would come back to haunt him weeks later at the Eastern Conclave. After the failed assassination plot on Tucker Glindley's life, Tucker would return to arrest Dadaka for his previous transgressions. Chaos breaks out and Dadaka is killed in the ensuing fight. What became of his [[Pickle]] is unknown.
 
 ### **Appearance**
 
@@ -29,11 +31,3 @@ Born from what he calls “the Pit,” a sacred chasm he believes gives life to 
 When the clan decided someone had to leave and seek answers, they dressed him in eccentric clothes to help him blend in with outsiders.
 
 Now, with his leather coat and pilot’s goggles, Dadaka sails across the sea, clumsily navigating foreign lands in search of a way to restore the Pit and save his people.
-
-### **Current Activity**
-
-Met [[Rusty Ruddleson]], a pilot in [[Albia]]. He's found himself traveling with the people he's met on Rusty's ship in search of fortune for his clan.
-
-### **Known Associates**
-
-- Unknown
