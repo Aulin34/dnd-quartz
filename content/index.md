@@ -20,6 +20,13 @@ title: "Embers of Progress Wiki"
 
 <h3>Latest Updates</h3>
 
+- Nov. 24th, 2025
+
+> [!success]- Players
+> > [!success]
+> >
+> > [[Melvin Mibbs]] - <span style="color:rgb(0, 176, 80)">Added</span>
+
 - Nov. 22nd, 2025
 
 > [!note]- Locations
@@ -132,46 +139,5 @@ title: "Embers of Progress Wiki"
 > > [!example]
 > >
 > > [[2025-11-16 - Divide and Conquer]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-
-- Nov. 16th, 2025
-
-> [!success]- Players‎ 
-> > [!success] ‎ 
-> > 
-> > [[Sylas Thorne]] -- <span style="color:rgb(255, 192, 0)">Updated alignment</span>
-
-> [!question]- NPCs‎ 
-> > [!question] ‎ 
-> >
-> > [[Sheen]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-> > 
-> > [[Keno]] -- <span style="color:rgb(0, 176, 80)">Added</span> 
-> >
-> > [[Pickle]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-> >
-> > [[Johnny Test]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-> > 
-> > [[JFK]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-> >
-> > [[Eights]] -- <span style="color:rgb(0, 176, 80)">Added</span> 
-> >
-> > [[Cyclops]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-> > 
-> > [[Bombshell]] -- <span style="color:rgb(255, 192, 0)">Updated</span>
-> >
-> > [[Gavrey]] -- <span style="color:rgb(255, 192, 0)">Updated</span>
-
-> [!bug]- Quests
-> > [!bug] ‎ 
-> >
-> > [[Shifting Winds]] -- <span style="color:rgb(255, 123, 0)">Expired</span>
-> > 
-> > [[A Fabulous Day for Croquet]] -- <span style="color:rgb(255, 123, 0)">Expired</span>
-
-> [!quote]- Session Notes‎ 
-> > [!quote] ‎ 
-> >
-> > [[s12-B-20251115]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-
 
 
