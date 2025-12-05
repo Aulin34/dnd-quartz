@@ -18,8 +18,6 @@
 > | Civil Unrest | <span style="color:rgb(80, 200, 220)">???</span> |
 > | Kingdom | <span style="color:rgb(80, 200, 220)">???</span> |
 
-The [[Queen of Moonspire]] noted the importance of this city in the independence and survival of the Valconia altogether.
+Nearly nothing is known of The Burning Expanse.
 
-Nesting Celestara away from the rest of the continent is a cursed valley within a treacherous mountain range, home to mysterious dwarves.
-
-Celestara has long been at war with the neighboring region of [[The Burning Expanse]], home to hellspawn. The primary defense from these creatures is Celestara's arcane wall, imbued with Fey magic from The World Tree.
+It is home to hellspawn, whose primary goal seems to be taking over Celestara and then presumably the rest of the world.

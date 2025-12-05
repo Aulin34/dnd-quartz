@@ -20,6 +20,34 @@ title: "Embers of Progress Wiki"
 
 <h3>Latest Updates</h3>
 
+- Dec. 4th, 2025
+
+> [!success]- Players
+> > [!success]
+> >
+> > [[Melvin Mibbs]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+
+> [!question]- NPCs‎ 
+> > [!question] ‎ 
+> >
+> > [[Entberd]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[Gorbon]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[Grandmaster Tree]] - <span style="color:rgb(0, 176, 80)">Added</span>
+
+> [!example]- Druecian Radio
+> > [!example]
+> >
+> > [[2025-12-04 - A Rare Truth]] -- <span style="color:rgb(0, 176, 80)">Added</span>
+
+> [!note]- Locations
+> > [!note]
+> >
+> > [[The Burning Expanse]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[Celestara]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+
 - Nov. 24th, 2025
 
 > [!success]- Players
@@ -132,12 +160,4 @@ title: "Embers of Progress Wiki"
 > > [!quote] ‎ 
 > >
 > > [[s13-20251121]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-
-- Nov. 17th, 2025
-
-> [!example]- Druecian Radio
-> > [!example]
-> >
-> > [[2025-11-16 - Divide and Conquer]] -- <span style="color:rgb(0, 176, 80)">Added</span>
-
 
