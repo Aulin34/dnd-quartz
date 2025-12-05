@@ -48,6 +48,14 @@ title: "Embers of Progress Wiki"
 > > 
 > > [[Celestara]] - <span style="color:rgb(255, 192, 0)">Updated</span>
 
+> [!quote]- Session Notes‎ 
+> > [!quote] ‎ 
+> >
+> > [[s14-A-20251125]] -- <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[s14-B-20251130]] -- <span style="color:rgb(0, 176, 80)">Added</span>
+
+
 - Nov. 24th, 2025
 
 > [!success]- Players
