@@ -34,3 +34,5 @@ An ancient myth lies at the core of the ForgeClaw identity. Legend tells of the 
 
 To the outside world, the ForgeClaw are savages.  
 To themselves, they are heirs to war incarnate.
+
+When traveling to the clan, [[Melvin Mibbs]] and [[Meowfi Smoothfang]] were met with immediate hostility. They seemed to have discovered rudementary sailing and have constructed a port.

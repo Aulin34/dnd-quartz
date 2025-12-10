@@ -16,3 +16,6 @@
 - Councilmember of [[Aetheryn]].
 
 - Enjoys training wyverns.
+
+- Found Thraine and Thomas in the [[Amethyst Vale]] after they were banished by [[Obi Aerisveil]].
+	- So long as they can learn to ride the Wyverns, she would help with the attack on [[the World Tree]].

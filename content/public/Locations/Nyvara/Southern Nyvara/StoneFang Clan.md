@@ -22,7 +22,7 @@
 > | Magic | <span style="color:rgb(0, 176, 80)">Low</span> |
 > | Danger | Unknown |
 
-The StoneFang Clan is one of the three major orc tribes in southern Nyvara, but they stand apart from the others in one crucial way: ingenuity. Unlike the fiercely brutal [[ForgeClaw Clan]] or the savage [[Pitborn Clan]], the Stonefangs are known for their creativity and resourcefulness. They are the wealthiest of the three clans, thanks to the lush cave systems beneath their stronghold, which provide them with abundant water, minerals, and other resources.
+The StoneFang Clan is one of the three major orc tribes in southern Nyvara, but they stand apart from the others in one crucial way: ingenuity. Unlike the fiercely brutal [[ForgeClaw Clan]] or the savage [[Pitborn Clan]], the StoneFangs are known for their creativity and resourcefulness. They are the wealthiest of the three clans, thanks to the lush cave systems beneath their stronghold, which provide them with abundant water, minerals, and other resources.
 
 The StoneFangs have a deep history of warfare, especially with the ForgeClaw and Pitborn clans. Their city was founded by orcs who fled the relentless wrath of the ForgeClaw, and their story is one of survival through cunning.
 
