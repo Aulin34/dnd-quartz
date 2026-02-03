@@ -7,9 +7,9 @@
 > | **Race** | Unknown |
 > | **Origin** | Unknown |
 > | **Relationship** | Good |
-> | **Traits** | Honorable, Kind, Noble |
+> | **Traits** | Honorable, Kind, Godlike |
 > | **Affiliations** | Unknown |
-> | **Status** | In Hiding |
+> | **Status** | Alive |
 
 ### **Notes**
 
@@ -37,3 +37,10 @@
 - In the coliseum of Honos, a massive worm burst out of the ground, spewing lava everywhere. Honos was nearly destroyed in the chaos, and the swarms of imps that followed.
 
 - Suave, glowing with light, decapitated the worm, destroying the swarms of imps with it.
+
+- Disappeared once again.
+
+- Returned during the Battle of the World Tree, singlehandedly obliterating thousands of airships.
+	- Fought 1-on-1 against a full-power [[Channing Tatum]] within the Heart of the World Tree, but was ultimately unsuccessful.
+
+- Last seen defending the dragon near the [[Tribe of Graithor]].

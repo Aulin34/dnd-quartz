@@ -1,5 +1,5 @@
 > [!infobox]
-> # Entberd
+> # Grandmaster Tree
 > ![[grandmaster_ent.png]]
 > ##### Information
 > | | |

@@ -6,10 +6,10 @@
 > | ---- | ---- |
 > | **Race** | Unknown |
 > | **Origin** | Unknown |
-> | **Relationship** | Neutral |
+> | **Relationship** | Bad |
 > | **Traits** | Angry, Stern |
 > | **Affiliations** | Gungi |
-> | **Status** | Unknown |
+> | **Status** | Alive |
 
 ### **Notes**
 
@@ -17,3 +17,5 @@
 
 - Looking for Mordo and Riggs
 	- Last seen in [[Honos]].
+
+- Summoned by a Tarot Card to teleport the group to Yeen and leave them there.

@@ -28,7 +28,21 @@ The study, [[Moonspire - The Magical Civilization, and the Potential Craft of Ma
 
 During the chaos of the delegation of the Eastern Conclave, Druecia's Finest disbanded. His group members [[Sylas Thorne]] and [[Dadaka]] are presumably dead.
 
-On the run from the Empire.
+Was on the run from the Empire.
+
+Aided in the defense of the World Tree
+	Trained under [[Wynara Aerisveil]] with [[Thomas Glindley]] to lead armies of Wyverns.
+
+Cut off Lionel Caldwell's arm during the battle.
+
+Saved by Francis Angold, who seems to have been looking for him specifically for a long time.
+	Returned the favor by saving Francis after the destruction of The World Tree.
+
+Spent the following months in [[Blackreach Prison]] with his cellmate [[Grug]].
+
+Narrowly escaped Blackreach Prison, where he was subsequently contracted by his saviors to discover the origin of the crater where Northern [[Lunaris Point]] once stood.
+
+Travelling the realm with Melvin, Orion, and Meowfi to aid in the resistance efforts.
 
 ### **Appearance**
 

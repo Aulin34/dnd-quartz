@@ -9,7 +9,7 @@
 > | **Relationship** | Great |
 > | **Traits** | Extremely large, Chill |
 > | **Affiliations** | Unknown |
-> | **Status** | Unknown |
+> | **Status** | Dead |
 
 ### **Notes**
 
@@ -22,3 +22,5 @@
 - Teleported [[Roin]] to an unknown location.
 
 - Guards forced him to teleport out of [[Grimrest]].
+
+- Sacrificed his life to break through the ceiling of [[Blackreach Prison]] with [[Rusty Ruddleson]], allowing Druecia's Finest to escape.

@@ -18,7 +18,14 @@ Joined up with Druecia's Finest, largely to help look for her mom. Found informa
 
 During the chaos of the delegation of the Eastern Conclave, Druecia's Finest disbanded. Her group members [[Sylas Thorne]] and [[Dadaka]] are presumably dead.
 
-On the run from the Empire.
+Was on the run from the Empire.
+
+Aided in the defense of The World Tree.
+	Sought allies for the upcoming battle with [[Melvin Mibbs]], they were somewhat successful.
+
+Saved [[Toasty Littlefoot]] during the battle.
+
+Spent the following months in [[Blackreach Prison]] with her cellmate [[Don Jones]].
 
 ### **Appearance**
 

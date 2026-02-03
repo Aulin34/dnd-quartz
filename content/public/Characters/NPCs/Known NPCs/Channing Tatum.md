@@ -1,13 +1,13 @@
 > [!infobox]
 > # Channing Tatum
-> ![[channingtatum.png]]
+> ![[channing-evil.png]]
 > ##### Information
 > | |  |
 > | ---- | ---- |
-> | **Race** | Human |
+> | **Race** | Tiefling |
 > | **Origin** | Autumngrove |
-> | **Relationship** | Formal / Friendly |
-> | **Traits** | Intelligent, Wise, Gives a great speech |
+> | **Relationship** | Heinous |
+> | **Traits** | Manipulative, Gives a Great Speech, Incredibly Powerful |
 > | **Affiliations** | Autumngrove |
 > | **Status** | Alive |
 
@@ -15,7 +15,7 @@
 
 - Assists Empress [[Celine Emberfall]] in administrative duties.
 
-- Helped with peace negotiations over [[Paw'merra]].
+- Pretended to help with peace negotiations over [[Paw'merra]].
 
 - Set up accommodations for Druecia's Finest to partner with [[Autumngrove]].
 
@@ -23,3 +23,7 @@
 
 - Conducted the great speech of the Eastern Conclave, which announced the massive restructuring of the Druecian Empire.
 	- Shot during his speech, causing the conference to erupt into total chaos, but managed to survive.
+
+- Worked behind the scenes to coordinate the destruction of [[The World Tree]].
+
+- Revealed to be a powerful Tiefling Warlock working directly with [[The Ashen Maw]]

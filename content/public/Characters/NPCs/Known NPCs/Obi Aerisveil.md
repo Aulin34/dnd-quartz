@@ -19,4 +19,4 @@
 
 - Fought with [[Thomas Glindley]].
 
-- Refused to help defend [[the World Tree]] from the Empire
+- Refused to help defend [[The World Tree]] from the Empire

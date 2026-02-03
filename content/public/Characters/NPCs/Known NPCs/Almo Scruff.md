@@ -15,6 +15,6 @@
 
 ### **Notes**
 
-- King of [[Paw'Merra]].
+- King of [[Paw'merra]].
 
 - Attendee of the Eastern Conclave.
