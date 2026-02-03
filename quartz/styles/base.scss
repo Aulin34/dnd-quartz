@@ -84,20 +84,23 @@ a {
     color: var(--tertiary);
   }
 
-  &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
-    line-height: 2
-    &.broken {
-      color: var(--secondary);
-      opacity: 0.5;
-      transition: opacity 0.2s ease;
-      &:hover {
-        opacity: 0.8;
-      }
+&.internal {
+  text-decoration: none;
+  background-color: var(--highlight);
+  padding: 0 0.1rem;
+  border-radius: 5px;
+  line-height: 2; // ← THIS
+
+  &.broken {
+    color: var(--secondary);
+    opacity: 0.5;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.8;
     }
+  }
+}
 
     &:has(> img) {
       background-color: transparent;
