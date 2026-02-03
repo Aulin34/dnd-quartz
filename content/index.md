@@ -29,9 +29,9 @@ title: "Embers of Progress Wiki"
 > > 
 > > [[Blackreach Prison]] - <span style="color:rgb(255, 192, 0)">Updated</span>
 > > 
-> > [[Szin-Ka Dominon]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+> > [[Szin-Ka Dominion]] - <span style="color:rgb(255, 192, 0)">Updated</span>
 > > 
-> > [[Paw'Merra]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+> > [[Paw'merra]] - <span style="color:rgb(255, 192, 0)">Updated</span>
 > > 
 > > [[Yeen]] - <span style="color:rgb(255, 192, 0)">Updated</span>
 > > 
@@ -192,9 +192,9 @@ title: "Embers of Progress Wiki"
 > > [[s18-20260101 - End of Act I]] - <span style="color:rgb(0, 176, 80)">Added</span>
 > > 
 > > [[s19-20260109]] - <span style="color:rgb(0, 176, 80)">Added</span>
-> 
+> >
 > > [[s20-20260118]] - <span style="color:rgb(0, 176, 80)">Added</span>
-> 
+> >
 > > [[s21-20260125]] - <span style="color:rgb(0, 176, 80)">Added</span>
-> 
+> >
 > > [[s22-20260131]] - <span style="color:rgb(0, 176, 80)">Added</span>
