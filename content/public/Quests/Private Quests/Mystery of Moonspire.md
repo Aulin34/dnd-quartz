@@ -12,8 +12,8 @@
 *Whether she speaks truth or delusion is unclear, but one thing is certain: Remyr is a formidable warrior whose strength could prove invaluable to the resistance.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span> // 2-5 Sessions
 
-**Rewards**: None
+**Rewards**: Unknown.
 
 **Additional Information**: Discover what truly happened to [[Moonspire]].

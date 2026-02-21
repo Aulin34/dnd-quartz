@@ -6,9 +6,9 @@
 > | ---- | ---- |
 > | **Race** | Human |
 > | **Origin** | Novastra |
-> | **Relationship** | Unknown |
+> | **Relationship** | Terrible |
 > | **Traits** | Unknown |
-> | **Affiliations** | None |
+> | **Affiliations** | Ice |
 > | **Status** | Alive |
 
 ### **Notes**
@@ -25,3 +25,5 @@
 	- That night, something unnatural occurred. Vander’s hair turned stark white, his eyes glowed with an eerie, frosted light.
 	- He rose without a word and moved among the sleeping crew, his frostbitten hands freezing each man solid, their bodies turned to lifeless ice as if their very souls had been ripped away.
 	- Those who woke to stop him were no match for his newfound power. Commanding ice with terrifying strength, Vander declared himself the Ice King, sparing a handful of survivors and allowing them to flee as a great citadel of frost rose behind him.
+
+- Killed [[Orion Starling]].

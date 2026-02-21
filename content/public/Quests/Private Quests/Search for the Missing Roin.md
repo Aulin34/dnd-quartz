@@ -12,8 +12,8 @@
 *And, if he’s honest, he just misses Roin. He was a fun little guy to have around.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(255, 192, 0)">Medium</span> // 1-2 Sessions
 
-**Rewards**: None
+**Rewards**: Unknown.
 
 **Additional Information**: Find [[Roin]] and bring him back.

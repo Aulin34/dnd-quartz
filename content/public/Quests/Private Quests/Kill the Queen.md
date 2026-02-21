@@ -12,7 +12,7 @@
 *Consumed by vengeance, Felix vows not to rest until the Queen of AutumnGrove is permanently removed from the realm.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(255, 123, 0)">Hard</span> // 1-2 Sessions
 
 **Rewards**: <span style="color:rgb(255, 192, 0)">20,000 Gold</span>
 

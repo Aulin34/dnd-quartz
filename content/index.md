@@ -20,6 +20,49 @@ title: "Embers of Progress Wiki"
 
 <h3>Latest Updates</h3>
 
+- Feb. 21st, 2026
+
+> [!success]- Players
+> > [!success]
+> >
+> > [[Orion Starling]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+> > 
+> > [[Lorgar Vaancoth]] - <span style="color:rgb(0, 176, 80)">Added</span>
+
+> [!question]- NPCs‎ 
+> > [!question] ‎ 
+> >
+> > [[Paul]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+> > 
+> > [[The Ice King]] - <span style="color:rgb(255, 192, 0)">Updated</span>
+> > 
+> > [[Skips]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> >
+> > [[King Monkey]] - <span style="color:rgb(0, 176, 80)">Added</span>
+
+> [!bug]- Quests
+> > [!bug]
+> >
+> > [[Stop Clauve]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > All active quests - <span style="color:rgb(255, 192, 0)">Difficulty ratings given with an estimated session commitment. </span>
+
+> [!example]- Druecian Radio
+> > [!example]
+> >
+> > [[2026-02-04 - A Truth Uncovered]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[2026-02-15 - The Rogue Kingdoms]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[2026-02-21 - Vengeance]] - <span style="color:rgb(0, 176, 80)">Added</span>
+
+> [!quote]- Session Notes‎ 
+> > [!quote] ‎ 
+> >
+> > [[s23-20260207]] - <span style="color:rgb(0, 176, 80)">Added</span>
+> > 
+> > [[s24-20260215]] - <span style="color:rgb(0, 176, 80)">Added</span>
+
 - Feb. 2nd, 2026
 
 > [!note]- Locations

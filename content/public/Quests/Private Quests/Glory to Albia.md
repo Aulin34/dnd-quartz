@@ -14,7 +14,7 @@
 *War may be inevitable, but with enough backing, it can either be avoided entirely… or won before it truly begins.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span> // 1-2 Sessions
 
 **Rewards**: <span style="color:rgb(255, 192, 0)">Gold</span> rewarded based on power of ally acquired.
 

@@ -12,9 +12,9 @@
 *The method is irrelevant. The hearts must never fall into Cattivu Will’s hands.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span> // 2-3 Sessions (each)
 
-**Rewards**: None
+**Rewards**: Unknown
 
 **Additional Information**: Ensure Cattivu's Will does not obtain the Purified Dragon Hearts. Known dragon locations are [[Kaldreth's Keep]], [[Pyraxius' Keep]], [[Tribe of Graithor]], and [[The Ashen Maw]]
 

@@ -12,7 +12,7 @@
 *An urgent call has gone out to all brave adventurers to journey into Yeen, uncover the source of the spread, and stop it, or at least slow the encroaching jungle before it consumes the mainland.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(112, 48, 160)">Extreme</span> //  3-5 Sessions
 
 **Rewards**: Reward varies depending on your impact.
 

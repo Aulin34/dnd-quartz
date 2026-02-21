@@ -13,7 +13,7 @@
 *Sheldon’s mother now offers a handsome reward to any brave soul who can track him down and bring him home safely.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(0, 176, 80)">Easy</span> // Variable commitment
 
 **Rewards**: <span style="color:rgb(255, 192, 0)">800 Gold</span> (100 given upfront)
 

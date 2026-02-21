@@ -12,8 +12,8 @@
 *At the heart of this blight lies the Eye of Cattivu and it must be destroyed. Only then can Cattivus Will be stopped and the countless lives lost in the defense of the tree be avenged.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(112, 48, 160)">Extreme</span> // 1-2 Sessions
 
-**Rewards**: None
+**Rewards**: Unknown.
 
 **Additional Information**: Destroy the [[Eye of Cattivu]].

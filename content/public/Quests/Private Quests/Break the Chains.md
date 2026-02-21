@@ -12,7 +12,7 @@
 *Dismissed and driven away repeatedly by Lawrence Shmud and other resistance leaders, she refuses to stay gone, her warnings growing harder to ignore.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span> // Commitment varies by player.
 
 **Rewards**: None
 

@@ -10,7 +10,7 @@
 > | **Resides** | Unknown |
 > | **Affiliations** | Forces of Fate |
 > | **Alignment** | Unknown |
-> | **Status** | Alive |
+> | **Status** | Dead |
 
 ### **Overview**
 
@@ -22,6 +22,8 @@ Subsequently, he and the rest of the group were contracted by their saviors to d
 
 [[The Creator]] of this bunker, fueled by his insanity, unleashed a jar of Rogue Spirits of Preservation upon Orion. This completely altered not only his physical appearance, but his inner being as well.
 	Since this event, Orion seems newly motivated to spread the influence of Victor Kruslav, known today as [[The Ice King]].
+
+After a tumultuous journey to The Ice King's domain, Orion was succinctly obliterated by him on the steps of his castle.
 
 ### **Appearance**
 

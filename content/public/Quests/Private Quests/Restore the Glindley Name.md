@@ -14,7 +14,7 @@
 *Determined to atone, Tucker will stop at nothing to bring down his father and restore the Glindley name to its former glory.*
 
 ---
-**Difficulty**: <span style="color:rgb(80, 200, 220)">? ? ?</span>
+**Difficulty**: <span style="color:rgb(255, 123, 0)">Hard</span> // 3-5 Sessions
 
 **Rewards**: <span style="color:rgb(255, 192, 0)">15,000 Gold</span>
 
