@@ -38,9 +38,27 @@ pre, code {
 /* Grid */
 .landing-grid {
   display: grid;
-  grid-template-columns: repeat(4, 220px);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 3rem;
   justify-content: center;
+  padding: 0 2rem;
+}
+
+@media (max-width: 1024px) {
+  .landing-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .landing-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .landing-btn {
+    height: 80px;
+  }
 }
 
 /* Buttons */
@@ -378,4 +396,51 @@ tr th:nth-child(2) {
 /* Folder tree border */
 .explorer-content .folder-outer > ul {
   border-left: 1px solid #bf4b4b99 !important;
+}
+
+/* Mobile sidebar overlay */
+#mobile-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 99;
+}
+
+/* Mobile layout adjustments */
+@media (max-width: 800px) {
+  /* The explorer IS the left sidebar. Make it a slide-in menu on mobile. */
+  .sidebar.left.explorer {
+    /* Position it off-screen when collapsed */
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+    /* Take it out of the normal document flow */
+    position: fixed;
+    top: 0;
+    width: 300px; /* Or your desired width */
+    height: 100vh;
+    z-index: 100;
+  }
+
+  /* When open, bring it on-screen */
+  .sidebar.left.explorer:not(.collapsed) {
+    transform: translateX(0);
+  }
+
+  /* Show the overlay when the sidebar is open */
+  body.mobile-menu-open #mobile-overlay {
+    display: block;
+  }
+
+  /* Adjust main content padding when sidebar is fixed */
+  #quartz-body {
+    padding-left: 0 !important;
+  }
+
+  .page-body {
+    grid-template-areas: "center" !important;
+  }
 }
