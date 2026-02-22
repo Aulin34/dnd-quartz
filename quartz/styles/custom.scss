@@ -444,3 +444,18 @@ tr th:nth-child(2) {
     grid-template-areas: "center" !important;
   }
 }
+
+@media (max-width: 800px){
+	.page > #quartz-body .sidebar.left:has(.explorer) {
+	margin: 0px -32px 0px 0px !important;
+	}
+	.infobox {
+	float: none !important;
+	}
+}
+
+
+
+.spacer {
+	flex: 0 !important;
+}
